@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597b01bf-ed83-4648-9357-5c7704e407a7" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/12082014/Test_008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082014/test_009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NikhilN0712&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NikhilN0712/Auto-Selenium&quot;,
+    &quot;accountId&quot;: &quot;f19f745f-4824-423b-b669-77edd46e7ea8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,23 +46,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Test_007.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Test_008.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_sele_Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/NIKHIL/PycharmProjects/Auto-Selenium&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_009.test_mini_project5.executor": "Run",
+    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
+    "Python tests.Python tests in Test_007.py.executor": "Run",
+    "Python tests.Python tests in Test_008.py.executor": "Run",
+    "Python.test_sele_Lab001.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/NIKHIL/PycharmProjects/Auto-Selenium"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\NIKHIL\PycharmProjects\Auto-Selenium" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_009.test_mini_project5">
+    <configuration name="Python tests for test_009.test_mini_project5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Auto-Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082014" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_009.test_mini_project5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_sele_Lab001.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Auto-Selenium" />
       <option name="ENV_FILES" value="" />
@@ -68,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_009.test_mini_project5" />
         <item itemvalue="Python tests.Python tests for test_sele_Lab001.test_sample" />
       </list>
     </recent_temporary>
@@ -88,6 +117,27 @@
       <option name="presentableId" value="Default" />
       <updated>1723384650411</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1723800555523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723800555523</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1723800601669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723800601669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
