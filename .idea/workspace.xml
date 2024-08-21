@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597b01bf-ed83-4648-9357-5c7704e407a7" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/12082014/test_009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +56,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_0011.test_mini_project6.executor": "Run",
+    "Python tests.Python tests for test_0015.test_mini_project11.executor": "Run",
+    "Python tests.Python tests for test_0016.test_mini_project12.executor": "Run",
     "Python tests.Python tests for test_009.test_mini_project5.executor": "Run",
+    "Python tests.Python tests for test_10.test_mini_project6.executor": "Run",
     "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
     "Python tests.Python tests in Test_007.py.executor": "Run",
     "Python tests.Python tests in Test_008.py.executor": "Run",
+    "Python tests.Python tests in test_0011.py.executor": "Run",
+    "Python tests.Python tests in test_0012.py.executor": "Run",
+    "Python tests.Python tests in test_0013.py.executor": "Run",
+    "Python tests.Python tests in test_0014.py.executor": "Run",
     "Python.test_sele_Lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -63,7 +79,52 @@
       <recent name="C:\Users\NIKHIL\PycharmProjects\Auto-Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_009.test_mini_project5">
+  <component name="RunManager" selected="Python tests.Python tests for test_0016.test_mini_project12">
+    <configuration name="Python tests for test_0011.test_mini_project6" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Auto-Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_0011.test_mini_project6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_0015.test_mini_project11" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Auto-Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_0015.test_mini_project11&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_0016.test_mini_project12" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Auto-Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_0016.test_mini_project12&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_009.test_mini_project5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Auto-Selenium" />
       <option name="ENV_FILES" value="" />
@@ -79,25 +140,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_sele_Lab001.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_10.test_mini_project6" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Auto-Selenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sele_Lab001.test_sample&quot;" />
+      <option name="_new_target" value="&quot;test_10.test_mini_project6&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_0016.test_mini_project12" />
+        <item itemvalue="Python tests.Python tests for test_0015.test_mini_project11" />
+        <item itemvalue="Python tests.Python tests for test_0011.test_mini_project6" />
+        <item itemvalue="Python tests.Python tests for test_10.test_mini_project6" />
         <item itemvalue="Python tests.Python tests for test_009.test_mini_project5" />
-        <item itemvalue="Python tests.Python tests for test_sele_Lab001.test_sample" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723800601669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done">
+      <option name="closed" value="true" />
+      <created>1724055349265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724055349265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
