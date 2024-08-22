@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597b01bf-ed83-4648-9357-5c7704e407a7" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_0011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/test_0012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/test_0013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/test_0014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/test_0015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024/test_0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_0017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +51,7 @@
     "Python tests.Python tests for test_0011.test_mini_project6.executor": "Run",
     "Python tests.Python tests for test_0015.test_mini_project11.executor": "Run",
     "Python tests.Python tests for test_0016.test_mini_project12.executor": "Run",
+    "Python tests.Python tests for test_0017.test_mini_project13.executor": "Run",
     "Python tests.Python tests for test_009.test_mini_project5.executor": "Run",
     "Python tests.Python tests for test_10.test_mini_project6.executor": "Run",
     "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
@@ -79,7 +72,7 @@
       <recent name="C:\Users\NIKHIL\PycharmProjects\Auto-Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_0016.test_mini_project12">
+  <component name="RunManager" selected="Python tests.Python tests for test_0017.test_mini_project13">
     <configuration name="Python tests for test_0011.test_mini_project6" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Auto-Selenium" />
       <option name="ENV_FILES" value="" />
@@ -125,18 +118,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_009.test_mini_project5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_0017.test_mini_project13" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Auto-Selenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082014" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_009.test_mini_project5&quot;" />
+      <option name="_new_target" value="&quot;test_0017.test_mini_project13&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -157,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_0017.test_mini_project13" />
         <item itemvalue="Python tests.Python tests for test_0016.test_mini_project12" />
         <item itemvalue="Python tests.Python tests for test_0015.test_mini_project11" />
         <item itemvalue="Python tests.Python tests for test_0011.test_mini_project6" />
         <item itemvalue="Python tests.Python tests for test_10.test_mini_project6" />
-        <item itemvalue="Python tests.Python tests for test_009.test_mini_project5" />
       </list>
     </recent_temporary>
   </component>
