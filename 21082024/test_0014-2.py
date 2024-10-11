@@ -9,17 +9,16 @@ import allure
 
 
 @allure.title("Mini Project# 10")
-@allure.description("mouse interaction")
+@allure.description("drag and drop")
 @pytest.mark.Mini_Project10
 def test_mini_project10():
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get("https://awesomeqa.com/selenium/mouse_interaction.html")
+    driver.get("https://the-internet.herokuapp.com/drag_and_drop")
     time.sleep(2)
 
-    ele_to_hold = driver.find_element(By.ID, 'draggable')
-    ele_to_unhold = driver.find_element(By.ID, 'droppable')
-    ele_to_hold.click()
+    ele_to_hold = driver.find_element(By.ID, 'column-a')
+    ele_to_unhold = driver.find_element(By.ID, 'column-b')
 
     time.sleep(3)
     action = ActionChains(driver)

@@ -9,7 +9,7 @@ import pytest
 import allure
 
 @allure.title("Mini Project# 12")
-@allure.description("enter the mumbai in make_my_trip dropdown box")
+@allure.description("window handling")
 @pytest.mark.Mini_Project12
 def test_mini_project12():
     driver = webdriver.Chrome()

@@ -44,6 +44,9 @@ def test_mini_project13():
 
     print(f"Total Amount Spent: {total_amount_spent:.2f}")
 
+    assert total_amount_spent == float("2560.22")
+
+    print("Total amount is right")
     driver.quit()
 
 
